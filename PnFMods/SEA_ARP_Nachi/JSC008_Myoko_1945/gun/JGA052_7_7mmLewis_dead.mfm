@@ -1,0 +1,17 @@
+<JGA052_7_7mmLewis_dead.mfm>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/gun/JGA052_7_7mmLewis_dead_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/gun/JGA052_7_7mmLewis_dead_mg.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/gun/default_ao.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/gun/JGA052_7_7mmLewis_n.dds	</Texture>
+	</property>
+</JGA052_7_7mmLewis_dead.mfm>

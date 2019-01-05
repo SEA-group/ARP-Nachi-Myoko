@@ -1,0 +1,20 @@
+<JGM063_203mm50_Type_C_RF_mod_skinned.mfm>
+	<fx>	shaders/std_effects/PBS_skinned_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	3.600000	</Float>
+	</property>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/gun/JGM063_203mm50_Type_C_RF_mod_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/gun/JGM063_203mm50_Type_C_RF_mod_mg.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/gun/default_ao.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/gun/JGM063_203mm50_Type_C_RF_mod_n.dds	</Texture>
+	</property>
+</JGM063_203mm50_Type_C_RF_mod_skinned.mfm>

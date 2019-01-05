@@ -1,0 +1,14 @@
+<JSC032_Myoko_1941_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/JSC032_Myoko_1941_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/JSC032_Myoko_1941_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/JSC032_Myoko_1941_n.dds	</Texture>
+	</property>
+</JSC032_Myoko_1941_wire.mfm>
