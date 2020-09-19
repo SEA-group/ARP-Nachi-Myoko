@@ -1,7 +1,7 @@
 <JF063_RF_1_5m_Nav.model>
 	<castsShadow>	false	</castsShadow>
 	<exporter>	1.5	</exporter>
-	<parent>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/finder/JF063_RF_1_5m_Nav_lod1	</parent>
+	<parent>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/finder/lods/JF063_RF_1_5m_Nav_lod1	</parent>
 	<extent>	2.000000	</extent>
 	<nodefullVisual>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/finder/JF063_RF_1_5m_Nav	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>

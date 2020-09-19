@@ -1,6 +1,6 @@
 <JGT028_610mm3_Type_93R_dead.model>
 	<extent>	3.000000	</extent>
-	<parent>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/gun/JGT028_610mm3_Type_93R_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/gun/lods/JGT028_610mm3_Type_93R_dead_lod1	</parent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>
 	<visibilityBox>

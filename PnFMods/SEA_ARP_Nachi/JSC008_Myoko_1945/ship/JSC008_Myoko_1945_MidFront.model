@@ -1,5 +1,5 @@
 <JSC008_Myoko_1945_MidFront.model>
-	<parent>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/JSC008_Myoko_1945_MidFront_lod1	</parent>
+	<parent>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/lods/JSC008_Myoko_1945_MidFront_lod1	</parent>
 	<extent>	7.0000	</extent>
 	<castsShadow>	true	</castsShadow>
 	<exporter>	1.6	</exporter>
