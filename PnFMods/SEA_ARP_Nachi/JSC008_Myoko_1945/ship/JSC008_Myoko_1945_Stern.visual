@@ -92,7 +92,7 @@
 			<primitive>	SternShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/JSC008_Myoko_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -106,7 +106,7 @@
 			<primitive>	Stern_BuglesShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
+					<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/JSC032_Myoko_1941_bools.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -120,7 +120,7 @@
 			<primitive>	Stern_crack_MidBackShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/JSC008_Myoko_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -134,7 +134,7 @@
 			<primitive>	Stern_crack_MidBack_inShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -148,7 +148,7 @@
 			<primitive>	Stern_crack_MidBack_in3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -162,7 +162,7 @@
 			<primitive>	Stern_crack_MidBack_BuglesShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
+					<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/JSC032_Myoko_1941_bools.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -176,7 +176,7 @@
 			<primitive>	Stern_crack_MidBack_in_BuglesShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -190,7 +190,7 @@
 			<primitive>	Stern_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/JSC008_Myoko_1945_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>

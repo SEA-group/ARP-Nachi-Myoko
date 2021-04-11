@@ -25,7 +25,7 @@
 			<primitive>	Director_lodShape3.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/director/JD008_Director_Type_91.mfm	</mfm>
 				</material>
 			</primitiveGroup>

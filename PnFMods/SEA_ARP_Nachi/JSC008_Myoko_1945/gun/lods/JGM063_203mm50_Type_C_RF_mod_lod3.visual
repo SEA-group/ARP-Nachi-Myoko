@@ -167,7 +167,7 @@
 			<primitive>	Turret_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/gun/JGM063_203mm50_Type_C_RF_mod_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

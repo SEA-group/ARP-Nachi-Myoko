@@ -38,7 +38,7 @@
 			<primitive>	turret_dead_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Gun1Dead	</identifier>
+					<identifier>	SHIPMATX_PBS_Gun1Dead	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/gun/JGS009_127mm40_Type_89_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -52,7 +52,7 @@
 			<primitive>	shield_dead_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/gun/JGS042_127mm40_Type89_3_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

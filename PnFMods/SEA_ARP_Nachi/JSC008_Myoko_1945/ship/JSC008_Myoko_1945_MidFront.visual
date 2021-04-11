@@ -173,7 +173,7 @@
 			<primitive>	MidFrontShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/JSC008_Myoko_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -187,7 +187,7 @@
 			<primitive>	MidFront_BuglesShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
+					<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/JSC032_Myoko_1941_bools.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -201,7 +201,7 @@
 			<primitive>	MidFront_DeckHouseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/JSC008_Myoko_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -215,7 +215,7 @@
 			<primitive>	MidFront_DeckHouse_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/JSC008_Myoko_1945_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -229,7 +229,7 @@
 			<primitive>	MidFront_crack_BowShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/JSC008_Myoko_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -243,7 +243,7 @@
 			<primitive>	MidFront_crack_Bow_inShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -257,7 +257,7 @@
 			<primitive>	MidFront_crack_Bow_BuglesShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
+					<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/JSC032_Myoko_1941_bools.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -271,7 +271,7 @@
 			<primitive>	MidFront_crack_Bow_in_BuglesShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -285,7 +285,7 @@
 			<primitive>	MidFront_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/JSC008_Myoko_1945_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -299,7 +299,7 @@
 			<primitive>	MidFront_crack_MidBackShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/JSC008_Myoko_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -313,7 +313,7 @@
 			<primitive>	MidFront_crack_MidBack_inShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -327,7 +327,7 @@
 			<primitive>	MidFront_crack_MidBack_BuglesShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
+					<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/JSC032_Myoko_1941_bools.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -341,7 +341,7 @@
 			<primitive>	MidFront_crack_MidBack_in_BuglesShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -355,7 +355,7 @@
 			<primitive>	MidFront_patch_MidBackShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/JSC008_Myoko_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -369,7 +369,7 @@
 			<primitive>	MidFront_patch_MidBack_BuglesShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
+					<identifier>	SHIPMATX_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/JSC032_Myoko_1941_bools.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -383,7 +383,7 @@
 			<primitive>	MidFront_patch_MidBack_DeckHouseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/JSC008_Myoko_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -397,7 +397,7 @@
 			<primitive>	MidFront_patch_MidBack_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Nachi/JSC008_Myoko_1945/ship/JSC008_Myoko_1945_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
