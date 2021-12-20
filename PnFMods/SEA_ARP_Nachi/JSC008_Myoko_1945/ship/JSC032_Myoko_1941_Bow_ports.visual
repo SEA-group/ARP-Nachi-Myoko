@@ -70,15 +70,6 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_CTC0427	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.3892 6.2651 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	MP_JM013_Reels_1	</identifier>
 				<transform>
 					<row0>	0.0000 0.0000 0.8500 0.0000	</row0>
@@ -103,69 +94,6 @@
 					<row1>	0.0000 0.6500 0.0000 0.0000	</row1>
 					<row2>	-0.6500 0.0000 0.0000 0.0000	</row2>
 					<row3>	-0.0571 0.3067 4.5019 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JTC0820	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0015 0.3597 5.9391 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JTC0821	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.4196 6.4713 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JTC0822	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	-0.0003 0.3363 5.5224 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JTC0823	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.3323 5.2390 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JTC0824	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.4021 6.2151 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JTC0825	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0247 0.3124 4.5248 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JTC0826	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	-0.0459 0.3061 4.5721 1.0000	</row3>
 				</transform>
 			</node>
 		</node>
